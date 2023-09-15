@@ -1,0 +1,12 @@
+body {
+  background-color: #242424;
+  color: white;
+}
+
+span {
+  cursor: pointer;
+  font-weight: bold;
+  background-color: gray;
+  padding: 5px 10px;
+  margin-right: 5px;
+}
